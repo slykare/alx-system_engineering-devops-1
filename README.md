@@ -5,11 +5,11 @@ Python learning programs
 ## Technologies Used
 
 * Ubuntu 20.04.4 LTS `lsb_release -a`
-* Python 3.8.10 `python3`
-* Bash 5.0.17 `bash --version`
-* C ``
-* GCC 9.4.0 `python3`, `gcc --version`
 * git version 2.25.1 `git --version`
+* Bash 5.0.17 `bash --version`
+* GCC 9.4.0 `python3`, `gcc --version`
+* C `gcc --version`
+* Python 3.8.10 `python3`
 
 ## Projects 🚨 🚨 🚨
 
