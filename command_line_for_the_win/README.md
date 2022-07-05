@@ -6,9 +6,9 @@
 
 0.  __First 九 tasks:__ Complete the first 9 tasks.
 
-1. __:__
+1. __Reach חי completed tasks:__ Complete the 9 next tasks, getting to 18 total.
 
-2. __:__
+2. __Reach the perfect cube, 27:__ Complete the 9 next tasks, getting to 27 total.
 
 ## Author(s) Info
 
