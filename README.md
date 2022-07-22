@@ -9,7 +9,7 @@ Python learning programs
 * Bash 5.0.17 `bash --version`
 * GCC 9.4.0 `python3`, `gcc --version`
 * C `gcc --version`
-* Python 3.8.10 `python3`
+* Python 3.10.5 `python3`
 
 ## Projects 🚨 🚨 🚨
 
@@ -21,19 +21,21 @@ Python learning programs
 
 3. __[0x03-shell_variables_expansions](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/0x03-shell_variables_expansions)__
 
-4. __[command_line_for_the_win](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/command_line_for_the_win)__
+4. __[0x04-loops_conditions_and_parsing](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/0x04-loops_conditions_and_parsing)__
 
-5. __[0x04-](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
+5. __[0x05-processes_and_signals](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/0x05-processes_and_signals)__
 
-6. __[0x05-](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
+6. __[](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
 
-7. __[0x06-](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
+7. __[](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
 
-8. __[0x07-](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
+8. __[](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
 
-9. __[0x08-](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
+9. __[](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
 
-10. __[0x09-](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
+10. __[](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
+
+__[command_line_for_the_win](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/command_line_for_the_win)__
 
 ## Author(s) Info
 
