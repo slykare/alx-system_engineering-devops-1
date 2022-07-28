@@ -2,20 +2,10 @@
 
 ## Resources
 
-* [OSI model](https://alx-intranet.hbtn.io/rltoken/k2uCsynicuNbu1cAQhXqVQ)
-* [Different types of network](https://alx-intranet.hbtn.io/rltoken/XW3ZGm5Ya_a8XVDXcAKT_A)
-* [LAN network](https://alx-intranet.hbtn.io/rltoken/en370-Hrwgi_GUvFcg3bKg)
-* [WAN network](https://alx-intranet.hbtn.io/rltoken/Ah1EKqnINR85lM4P2WnLSw)
-* [Internet](https://alx-intranet.hbtn.io/rltoken/Lwh9xQxFD4dWh5sIApXI1g)
-* [MAC address](https://alx-intranet.hbtn.io/rltoken/j-Wp-YRvFTVP04SpIeRzHQ)
-* [What is an IP address](https://alx-intranet.hbtn.io/rltoken/HaZZvrmGaQ3U7ZLDYgZb6w)
-* [Private and public address](https://alx-intranet.hbtn.io/rltoken/OPJCZYuWSEXLIZOqU9Uc0A)
-* [IPv4 and IPv6](https://alx-intranet.hbtn.io/rltoken/M8g-egWLlldTl6Y0QECdwA)
-* [Localhost](https://alx-intranet.hbtn.io/rltoken/7lj-zoZQ7xFTkj4MTyos_g)
-* [TCP and UDP](https://alx-intranet.hbtn.io/rltoken/uJbs8E9-FyATfsELpmtTIg)
-* [TCP/UDP ports List](https://alx-intranet.hbtn.io/rltoken/4PYkqDfOvIZZb9aUPGOOzQ)
-* [What is ping /ICMP](https://alx-intranet.hbtn.io/rltoken/3zBgO6r2M1Q8lUVt9g8aJw)
-* [Positional parameters](https://alx-intranet.hbtn.io/rltoken/ZbMHH3jmxFhcrbigVy15iw)
+* [What is localhost](https://alx-intranet.hbtn.io/rltoken/Odcc_tyAQlcANCCrtmxo6A)
+* [What is 0.0.0.0](https://alx-intranet.hbtn.io/rltoken/fUb9IpnxrNaddMljzwbhJQ)
+* [What is the hosts file](https://alx-intranet.hbtn.io/rltoken/4_MBpFTulKliFM69jCPzOQ)
+* [Netcat examples](https://alx-intranet.hbtn.io/rltoken/OR0lOEwAw9I1Rj4aGp1Ljg)
 
 ## Tasks 🚨 🚨 🚨
 
@@ -23,13 +13,13 @@
 
 1. __Show attached IPs:__ Write a Bash script that displays all active IPv4 IPs on the machine it’s executed on.
 
-2. __:__ 
+2. __Port listening on localhost:__ Write a Bash script that listens on port 98 on localhost.
 
-3. __:__ 
+<!-- 3. __:__ 
 
 4. __:__ 
 
-5. __:__ 
+5. __:__  -->
 
 
 ## Author(s) Info

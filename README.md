@@ -25,15 +25,35 @@ Python learning programs
 
 5. __[0x05-processes_and_signals](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/0x05-processes_and_signals)__
 
-6. __[](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
+6. __[0x06-regular_expressions](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/0x06-regular_expressions)__
 
-7. __[](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
+7. __[0x07-networking_basics](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/0x07-networking_basics)__
 
-8. __[](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
+8. __[0x08-networking_basics_2](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/0x08-networking_basics_2)__
 
 9. __[](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
 
 10. __[](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
+
+11. __[](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
+
+12. __[](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
+
+13. __[](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
+
+14. __[](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
+
+15. __[](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
+
+16. __[](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
+
+17. __[](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
+
+18. __[](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
+
+19. __[](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
+
+20. __[](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/)__
 
 __[command_line_for_the_win](https://github.com/streetgrandmaster/alx-system_engineering-devops/tree/main/command_line_for_the_win)__
 
